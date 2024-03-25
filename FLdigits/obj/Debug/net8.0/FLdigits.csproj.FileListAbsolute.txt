@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\bin\Debug\net8.0\FLdigits.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\bin\Debug\net8.0\FLdigits.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\bin\Debug\net8.0\FLdigits.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\bin\Debug\net8.0\FLdigits.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\bin\Debug\net8.0\FLdigits.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\refint\FLdigits.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\FLdigits.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\FLdigits\obj\Debug\net8.0\ref\FLdigits.dll

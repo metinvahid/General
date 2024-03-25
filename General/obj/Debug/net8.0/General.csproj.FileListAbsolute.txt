@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\General\bin\Debug\net8.0\General.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\General\bin\Debug\net8.0\General.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\General\bin\Debug\net8.0\General.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\General\bin\Debug\net8.0\General.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\General\bin\Debug\net8.0\General.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\refint\General.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\General.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\General\obj\Debug\net8.0\ref\General.dll

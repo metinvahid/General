@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\bin\Debug\net8.0\CharString.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\bin\Debug\net8.0\CharString.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\bin\Debug\net8.0\CharString.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\bin\Debug\net8.0\CharString.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\bin\Debug\net8.0\CharString.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\refint\CharString.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\CharString.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\CharString\obj\Debug\net8.0\ref\CharString.dll

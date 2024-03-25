@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\bin\Debug\net8.0\ReadInt.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\bin\Debug\net8.0\ReadInt.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\bin\Debug\net8.0\ReadInt.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\bin\Debug\net8.0\ReadInt.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\bin\Debug\net8.0\ReadInt.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\refint\ReadInt.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ReadInt.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ReadInt\obj\Debug\net8.0\ref\ReadInt.dll

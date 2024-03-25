@@ -1,0 +1,14 @@
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\bin\Debug\net8.0\ToUpper,ToLower,CultureInfo.exe
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\bin\Debug\net8.0\ToUpper,ToLower,CultureInfo.deps.json
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\bin\Debug\net8.0\ToUpper,ToLower,CultureInfo.runtimeconfig.json
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\bin\Debug\net8.0\ToUpper,ToLower,CultureInfo.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\bin\Debug\net8.0\ToUpper,ToLower,CultureInfo.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.AssemblyInfoInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.AssemblyInfo.cs
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.csproj.CoreCompileInputs.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\refint\ToUpper,ToLower,CultureInfo.dll
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.pdb
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ToUpper,ToLower,CultureInfo.genruntimeconfig.cache
+C:\Users\TUF\OneDrive\Desktop\General\General\ToUpper,ToLower,CultureInfo\obj\Debug\net8.0\ref\ToUpper,ToLower,CultureInfo.dll
